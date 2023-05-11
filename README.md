@@ -17,4 +17,9 @@ Hand rankings:
 - High - Highest card (ex. QH, 10D, 4S)
 - Ties are determined by the rank and suit of the highest cards
 
-After playing this game enough times, the player will eventually realize that the only decisions to be made is determining what bet you should place, and whether or not you wish to play the hand you are given. It naturally follows to consider what the optimal strategy is. One can show that in a session with many rounds, to maximize the profit, you should play your hand if you get a Q-10-4 or higher, and fold otherwise. This program allows you to experiment with how much you wish to put into the ante and how much to bet on the pair-plus. Given the intial funds, settle amount, ideal ante bet, ideal pair-plus bet, and number of simulations, the program will run that number of sessions and list the frequency of busts and settles.
+After playing this game enough times, the player will eventually realize that the only decisions to be made is determining what bet you should place, and whether or not you wish to play the hand you are given. 
+It naturally follows to consider what the optimal strategy is. 
+One can show that in a session with many rounds, to maximize the profit, you should play your hand if you get a Q-10-4 or higher, and fold otherwise. 
+
+This program allows you to experiment with how much you wish to put into the ante and how much to bet on the pair-plus. 
+Given the intial funds, settle amount, ideal ante bet, ideal pair-plus bet, and number of simulations, the program will run that number of sessions and list the frequency of busts and settles.
